@@ -95,7 +95,7 @@ export default function DetailRaport() {
                     Sekolah :
                   </Typography>
                   <Typography variant="body1" width="100%">
-                    SD Negeri 1 Denpasar
+                    SMA Negeri 1 Denpasar
                   </Typography>
                 </Box>
               </Box>
